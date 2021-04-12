@@ -1,3 +1,5 @@
+This is the custom firmware I'm using for my Creality Ender 3 Pro with SKR mini v2
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
