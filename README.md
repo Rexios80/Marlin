@@ -1,4 +1,8 @@
-This is the custom firmware I'm using for my Creality Ender 3 Pro with SKR mini v2
+This is the custom firmware I'm using for my 3D printer. I recommend you have the following hardware or you're going to have a bad time:
+- Creality Ender 3 Pro
+- SKR mini v2
+- BLTouch
+- Pestfang mod
 
 # Marlin 3D Printer Firmware
 
